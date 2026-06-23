@@ -1,189 +1,135 @@
 <h1 align="center">Hi 👋, I'm Aditya Wiratama Ramadhan</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer • IoT Enthusiast • Digital Marketer
+🚀 Full Stack Developer • IoT Enthusiast • Digital Marketing
 </h3>
 
 <p align="center">
-Building real-world solutions through technology, innovation, and digital business.
+Building technology solutions that solve real-world problems.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;IoT+Enthusiast;React+%26+Laravel+Developer;Digital+Marketing+Learner;Building+Technology+for+Real+Problems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+Next.js;IoT+Enthusiast;Digital+Marketing+Learner;Building+Projects+for+Real+Problems" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AdityaWiratama&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=adityawiratama&label=Profile+Views&style=for-the-badge&color=0e75b6" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-```javascript
-const aditya = {
-  education: "SMK Telkom Sidoarjo",
-  location: "Surabaya, Indonesia",
-
-  currentlyLearning: [
-    "Laravel",
-    "Next.js",
-    "React Native",
-    "Artificial Intelligence",
-    "Digital Marketing"
-  ],
-
-  interests: [
-    "Web Development",
-    "Mobile Development",
-    "IoT",
-    "Business",
-    "Startups",
-    "Technology Innovation"
-  ]
-};
-```
-
-🎓 Student at **SMK Telkom Sidoarjo**
-
-💻 Building web and mobile applications
-
-🤖 Interested in AI and IoT innovations
-
-📈 Learning digital marketing and business strategy
-
-🚀 Passionate about creating impactful technology
-
-🌱 Always learning new technologies and solving real-world problems
+- 🎓 Student at **SMK Telkom Sidoarjo**
+- 💻 Full Stack Developer focused on **Laravel, React, and Next.js**
+- 📱 Learning **React Native**
+- 🤖 Interested in **Artificial Intelligence & IoT**
+- 📈 Learning **Digital Marketing & Business Development**
+- 🚀 Passionate about technology, startups, and innovation
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="center">
-
+<p align="left">
 <a href="https://instagram.com/ditz.wr">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-<a href="https://github.com/AdityaWiratama">
+<a href="https://github.com/adityawiratama">
 <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </p>
 
 ---
 
-# ⚡ Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
 
 ### Backend
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
 </p>
 
 ### Database
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" />
-</p>
-
-### Mobile
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ### Tools
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🌾 Taman Zakat
+### 🌾 Taman Zakat
+Platform digital untuk donasi zakat, infak, dan sedekah.
 
-Digital platform for zakat, infaq, and charity donations.
+### 🏠 SmartRoom
+Aplikasi monitoring ruangan berbasis IoT menggunakan React Native.
 
-## 🏠 SmartRoom
+### 👶 Smart Baby Cradle IoT
+Ayunan bayi pintar dengan Cry Detection dan monitoring berbasis IoT.
 
-IoT-based room monitoring and management application.
+### 🍯 Bika Ambon Ordering System
+Sistem pemesanan online berbasis Laravel.
 
-## 👶 Smart Baby Cradle IoT
-
-Smart baby cradle with cry detection and intelligent monitoring.
-
-## 🍯 Bika Ambon Ordering System
-
-Online ordering system built with Laravel.
-
-## 📱 Indonesian Culinary Recipe App
-
-Mobile application built using React Native.
+### 📱 Indonesian Culinary Recipe App
+Aplikasi resep kuliner Indonesia menggunakan React Native.
 
 ---
 
-# 🏆 GitHub Trophy
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AdityaWiratama&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adityawiratama&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityawiratama&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## 🔥 GitHub Streak
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdityaWiratama&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaWiratama&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityawiratama&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaWiratama&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityawiratama&theme=tokyo-night" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 🎯 Current Goals
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaWiratama&theme=tokyo-night"/>
-</p>
-
----
-
-# 🎯 Current Goals
-
-- 🚀 Build impactful software products
-- 📱 Master React Native development
-- 🤖 Integrate AI into real-world applications
-- 🌐 Become a better Full Stack Developer
+- 🚀 Build impactful web applications
+- 📱 Improve React Native skills
+- 🤖 Learn AI integration
+- 🌐 Master Full Stack Development
 - 📈 Improve Digital Marketing skills
-- 💡 Launch technology-based business solutions
+- 💡 Build technology-based business solutions
 
 ---
 
-# 💻 Favorite Technologies
+## 💻 Favorite Technologies
 
-<p align="center">
+<p>
 
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 
@@ -191,23 +137,21 @@ Mobile application built using React Native.
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
 
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react"/>
-
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
 
 <img src="https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Digital_Marketing-00A86B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Digital%20Marketing-00A86B?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 📖 Motto
+## 💡 Motto
 
-> “Technology becomes valuable when it solves real problems.”
+> "Technology becomes valuable when it solves real problems."
 
 ---
 
