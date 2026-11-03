@@ -87,18 +87,3 @@ Project lainnya ada di [Repositories](https://github.com/adityawiratama?tab=repo
 ## Currently
 
 Mendalami React Native, integrasi AI ke aplikasi, dan product management.
-
-<br />
-
-## GitHub Stats
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adityawiratama&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&card_width=400" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=adityawiratama&show_icons=true&theme=default&hide_border=true&card_width=400" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adityawiratama&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityawiratama&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-  </picture>
-</p>
